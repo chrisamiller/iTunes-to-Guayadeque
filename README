@@ -1,0 +1,5 @@
+A ruby script to copy iTunes ratings (from an exported XML file) into the Guayadeque music player's database.
+
+- requires the 'sqlite' gem
+
+- run "guayItunes.rb -h" for usage
